@@ -14,3 +14,18 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# ⚛️ React Boilerplate + Styled Components
+
+A modern and organized starting point for React applications, focused on scalability, productivity, and efficient styling.
+
+## 🚀 Project Goal
+
+This project was developed with the goal of providing a solid initial structure for web applications, removing the need for repetitive configurations and allowing business logic development to start immediately.
+
+## 🛠️ Tech Stack & Tools
+
+- **React** (Core Library)
+- **Styled Components** (CSS-in-JS for component-based styling)
+- **Vite** (Ultra-fast build tool and dev server)
+- **Component-Driven Architecture** (Organized folder structure)
